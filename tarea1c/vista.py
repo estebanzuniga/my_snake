@@ -15,7 +15,6 @@ import random
 import modelo as mo
 
 n = int(sys.argv[1])
-#n = 15
 global scale
 scale = 1.9/n
 
